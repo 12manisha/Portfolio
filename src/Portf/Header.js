@@ -18,9 +18,10 @@ function Header() {
           <Nav style={{color:'#E3F4F4'}}>
             <Link style={{marginLeft:'1.5rem' , cursor:'pointer'}} activeClass="active" to="skills" spy={true} smooth={true} offset={-90} duration={200}   > Skills</Link>
             <Link style={{marginLeft:'1.5rem' , cursor:'pointer'}} activeClass="active" to="projects" spy={true} smooth={true} offset={-90} duration={200} > Projects</Link>
-            <Link style={{marginLeft:'1.5rem' , cursor:'pointer'}} activeClass="active" to="contactme" spy={true} smooth={true} offset={-90} duration={200} > ContactMe </Link>
             <Link style={{marginLeft:'1.5rem' , cursor:'pointer'}} activeClass="active" to="education" spy={true} smooth={true} offset={-90} duration={200} > Education </Link>
             <Link style={{marginLeft:'1.5rem' , cursor:'pointer'}} activeClass="active" to="experience" spy={true} smooth={true} offset={-90} duration={200} > Experience </Link>
+            <Link style={{marginLeft:'1.5rem' , cursor:'pointer'}} activeClass="active" to="contactme" spy={true} smooth={true} offset={-90} duration={200} > ContactMe </Link>
+           
             
           </Nav>
         </Container>
