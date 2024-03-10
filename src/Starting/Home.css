@@ -1,0 +1,34 @@
+/* Add these styles to your CSS or styles file */
+
+  .spam-line {
+    margin-bottom: 0;
+  }
+
+  .intro-text {
+    margin-bottom: 20px;
+    color: rgb(105, 105, 105);
+    font-size: 1.3rem;
+  }
+  
+  .custom-button {
+    border: 1px solid #000; 
+    border-radius: 0%;/* black border */
+    color: #000; /* black text */
+    background-color: transparent; /* transparent background */
+    padding: 6px 37px; /* adjust padding to increase width */
+    display: inline-block; /* make it rectangular */
+    text-align: center;
+    text-decoration: none;
+    font-size: 19px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    margin-right: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .custom-button:hover {
+    background-color: #000; /* black background on hover */
+    color: #fff; 
+    transform: translateX(5px);
+  }
+  
