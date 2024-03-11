@@ -26,7 +26,7 @@ const Home = () => {
         <Button
           className="custom-button"
           variant="primary"
-          href="https://drive.google.com/file/d/1hrdGKG8ntBgelxz6tq7tpTnaU6kKSNdC/view?usp=sharing"
+          href="https://drive.google.com/file/d/1YF1EWCSnE86D7VeP3S7Iit2OMMU4xBt6/view?usp=sharing"
           target="_blank"
         >
           Resume
